@@ -40,5 +40,5 @@
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/pradeepdhass" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/pradeepdhass" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://instagram.com/littleboy_pradeep" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
