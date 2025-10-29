@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Pradeepdhass&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeepdhass" />
 </p>
 
-- 🔭 I’m currently working on **Smart Traffic Signal System using IoT**
-- 🌱 I’m learning **React.js, Node.js, and Firebase**
-- 👯 I’m looking to collaborate on **Frontend and IoT-based projects**
+- 🔭 I’m currently working on **Urban Rural Mentor Mentee Platform**
+- 🌱 I’m learning **React.js, Node.js**
+- 👯 I’m looking to collaborate on **Frontend and Backend projects**
 - 💬 Ask me about **UI/UX Design, React, or JavaScript**
-- 📫 Reach me at **pradeepdhass@example.com**
+- 📫 Reach me at **pradeepdhassr@example.com**
 - ⚡ Fun fact: **I turn caffeine into code and clean UI designs.**
 
 ---
@@ -21,16 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepdhass&show_icons=true&theme=tokyonight" alt="Pradeep's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepdhass&theme=tokyonight" alt="Pradeep's Streak Stats" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -41,7 +31,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/pradeepdhass" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/pradeepdhass" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/rpradeepdhass" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/littleboy_pradeep" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://pradeepdhass.github.io" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
