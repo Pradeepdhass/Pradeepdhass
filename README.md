@@ -9,7 +9,7 @@
 - 🌱 I’m learning **React.js, Node.js**
 - 👯 I’m looking to collaborate on **Frontend and Backend projects**
 - 💬 Ask me about **UI/UX Design, React, or JavaScript**
-- 📫 Reach me at **pradeepdhassr@example.com**
+- 📫 Reach me at **pradeepdhassr@gmail.com**
 - ⚡ Fun fact: **I turn caffeine into code and clean UI designs.**
 
 ---
