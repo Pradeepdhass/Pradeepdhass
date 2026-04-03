@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer & UI/UX Designer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pradeepdhass&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeepdhass" />
+  <img src="https://komarev.com/ghpvc/?username=Pradeepdhass&label=Profile%20views&color=0e75b6&style=flat" alt="RPradeepdhass" />
 </p>
 
 - 🔭 I’m currently working on **Urban Rural Mentor Mentee Platform**
