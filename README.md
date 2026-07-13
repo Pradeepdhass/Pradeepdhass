@@ -58,33 +58,6 @@
 | **Attendance Tracking & Payroll System**<br><sub>Attendance management with payroll automation.</sub> | Flutter | 💻 https://github.com/Pradeepdhass/Attendance-Tracker |
 | **Personal Portfolio Website**<br><sub>Showcasing projects, achievements and technical skills.</sub> | React.js | 🌐 https://pradeepdhassportfolio.netlify.app |
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pradeepdhass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepdhass&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Pradeepdhass&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pradeepdhass&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</p>
 
 ---
 
