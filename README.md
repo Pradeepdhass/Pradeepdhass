@@ -8,7 +8,7 @@
 
 ### Frontend Developer • Full Stack (MERN) Developer • AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+(MERN)+Developer;Building+Scalable+Web+Applications;Generative+AI+%7C+Cloud+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pradeepdhass+R;Frontend+%26+MERN+Developer;AI+Enthusiast;Building+Scalable+Digital+Experiences;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Pradeepdhass&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
@@ -22,16 +22,17 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Pursuing an **Integrated M.Sc. in Software Systems** at **Kongu Engineering College, Erode**
-- 💻 Passionate **Frontend Developer** with expertise in the **MERN Stack**
-- 🌱 Currently learning **Generative AI, Cloud Computing, DevOps, and Real-Time Applications**
-- 🚀 Interested in building **modern, scalable, and user-friendly web applications**
-- 🤝 Open to collaborating on **Frontend, Full Stack, and AI-powered projects**
-- 💬 Ask me about **React.js, JavaScript, MERN Stack, Firebase, UI/UX Design, and Web Development**
-- 🏆 **3rd Prize** – UI/UX Design (Quantum Fest 2K24)
+- 🎓 Integrated **M.Sc. Software Systems** student at **Kongu Engineering College, Erode**
+- 💻 Frontend & **Full Stack (MERN)** Developer passionate about creating modern, responsive, and scalable web applications
+- 🤖 Exploring **Generative AI, Cloud Computing, DevOps, and Real-Time Systems** to build next-generation software solutions
+- 🚀 Strong interest in **UI/UX Design**, performance optimization, and clean, maintainable code
+- 🌱 Continuously learning new technologies and contributing to innovative projects
+- 🤝 Open to **Internship**, **Open Source**, and **Collaborative Development** opportunities
 - 🥈 **2nd Prize** – Project Presentation (Mentor Connect)
-- 📫 **Email:** **pradeepdhassr@gmail.com**
-- ⚡ **Fun Fact:** *I turn coffee into clean code and creative UI designs.*
+- 🏆 **3rd Prize** – UI/UX Design Competition (Quantum Fest 2K24)
+- 📫 Reach me at **pradeepdhassr@gmail.com**
+- 🌐 Portfolio: **https://pradeepdhassportfolio.netlify.app**
+- ⚡ **Motto:** *"Building innovative digital experiences through clean code and thoughtful design."*
 
 ---
 
@@ -65,8 +66,8 @@
 
 | Category | Achievement |
 |----------|-------------|
-| 🥉 Award | **3rd Prize** – UI/UX Design Competition (Quantum Fest 2K24) |
 | 🥈 Award | **2nd Prize** – Project Presentation (Mentor Connect) |
+| 🥉 Award | **3rd Prize** – UI/UX Design Competition (Quantum Fest 2K24) |
 | 💡 Participation | IDEATHON 2K25 |
 | 🚀 Participation | Proof of Concept 2K25 |
 | 📜 Certification | Oracle Java Foundation Associate (2026) |
@@ -93,7 +94,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/littleboy_pradeep">
+<a href="https://instagram.com/its_pradeepdhass07">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
