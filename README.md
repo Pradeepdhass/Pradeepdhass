@@ -1,9 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Pradeepdhass R banner" src="dark.svg" width="100%">
+  <img
+    src="https://github.com/Pradeepdhass.png"
+    alt="Pradeepdhass R"
+    width="180"
+    style="border-radius:50%;">
 </picture>
 
 <br/>
