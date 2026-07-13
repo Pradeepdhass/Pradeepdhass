@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://github.com/Pradeepdhass.png" width="180" style="border-radius:50%;" alt="Pradeepdhass R"/>
-
-<br/><br/>
-
+<br/>
 # Hi 👋 I'm Pradeepdhass R
 
 ### Frontend Developer • Full Stack (MERN) Developer • AI Enthusiast
