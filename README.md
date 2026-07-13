@@ -7,9 +7,7 @@
 # Hi 👋 I'm Pradeepdhass R
 
 ### Frontend Developer • Full Stack (MERN) Developer • AI Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B;Frontend+%26+MERN+Developer;AI+Enthusiast;Building+Scalable+Digital+Experiences;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Pradeepdhass+R;Frontend+Developer;Full+Stack+MERN+Developer;Generative+AI+Enthusiast;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 <p>
 <img src="https://komarev.com/ghpvc/?username=Pradeepdhass&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
 <img src="https://img.shields.io/github/followers/Pradeepdhass?label=Followers&style=for-the-badge&color=22D3EE"/>
